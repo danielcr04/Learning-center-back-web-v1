@@ -117,3 +117,4 @@ C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\PC2-Practica\pc2tipo1.A
 C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\PC2-Practica\pc2tipo1.API\pc2tipo1\obj\Debug\net9.0\ref\pc2tipo1.dll
 C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\PC2-Practica\pc2tipo1.API\pc2tipo1\bin\Debug\net9.0\lb\Humanizer.resources.dll
 C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\PC2-Practica\pc2tipo1.API\pc2tipo1\bin\Debug\net9.0\lt\Humanizer.resources.dll
+C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\PC2-Practica\pc2tipo1.API\pc2tipo1\obj\Debug\net9.0\pc2tipo1.sourcelink.json
