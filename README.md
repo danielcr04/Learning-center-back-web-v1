@@ -49,6 +49,16 @@ Shared/
             ├── BaseRepository.cs
             └── UnitOfWork.cs
 ```
+Domain/Repositories/IBaseRepository
+Domain/Repositories/IUnitOfWork
+
+Infrastructure/Interfaces/ASP/Configuration/Extensions/StringExtensions
+Infrastructure/Interfaces/ASP/Configuration/KebabCaseRouteNamingConvention
+Infrastructure/Persistence/EFC/Configuration/Extensions/ModelBuilderExtensions
+Infrastructure/Persistence/EFC/Configuration/Extensions/StringExtensions
+Infrastructure/Persistence/EFC/Configuration/AppDbContext
+Infrastructure/Persistence/EFC/Repositories/BaseRepository
+Infrastructure/Persistence/EFC/Repositories/UnitOfWork
 
 ## 2. `Sale` (Bounded Context)
 
